@@ -1,5 +1,0 @@
-root/year/month/post/
-                public/
-                image/
-                attachments/
-                missing_media.txt

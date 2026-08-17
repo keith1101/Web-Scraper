@@ -1,0 +1,6866 @@
+[
+  {
+    "id": 17,
+    "count": 0,
+    "description": "Tuyển tập các mẫu thiết kế áo thun Công giáo cho thiếu nhi, thanh niên và sinh viên Công giáo Việt Nam",
+    "link": "https://abi.com.vn/tag/ao-cong-giao/",
+    "name": "Áo Công giáo",
+    "slug": "ao-cong-giao",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/17",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=17"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/be-giang-giao-ly/",
+    "name": "bế giảng giáo lý",
+    "slug": "be-giang-giao-ly",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/18",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/biet-thu-vuon/",
+    "name": "biệt thự vườn",
+    "slug": "biet-thu-vuon",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/158",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=158"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/bong-da-chau-au/",
+    "name": "bóng đá châu âu",
+    "slug": "bong-da-chau-au",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/132",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=132"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 176,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/can-ho-nho/",
+    "name": "căn hộ nhỏ",
+    "slug": "can-ho-nho",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/176",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=176"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 179,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/cay-xanh-trong-thiet-ke-noi-that/",
+    "name": "cây xanh trong thiết kế nội thất",
+    "slug": "cay-xanh-trong-thiet-ke-noi-that",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/179",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=179"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/chen-ban-do/",
+    "name": "Chèn bản đồ",
+    "slug": "chen-ban-do",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/19",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/ckeditor-for-wordpress/",
+    "name": "CKEditor for WordPress",
+    "slug": "ckeditor-for-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/20",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=20"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 165,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/cong-nang/",
+    "name": "công năng",
+    "slug": "cong-nang",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/165",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=165"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/cuoc-thi-kien-truc/",
+    "name": "cuộc thi kiến trúc",
+    "slug": "cuoc-thi-kien-truc",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/156",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=156"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/download-illustrator-cs6/",
+    "name": "download illustrator cs6",
+    "slug": "download-illustrator-cs6",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/21",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/download-photoshop/",
+    "name": "download photoshop",
+    "slug": "download-photoshop",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/22",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=22"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 140,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/dat-lich-hen/",
+    "name": "đặt lịch hẹn",
+    "slug": "dat-lich-hen",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/140",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=140"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 180,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/den-led/",
+    "name": "đèn led",
+    "slug": "den-led",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/180",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=180"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/do-trang-tri/",
+    "name": "đồ trang trí",
+    "slug": "do-trang-tri",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/160",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=160"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/exciter-viet-nam/",
+    "name": "exciter việt nam",
+    "slug": "exciter-viet-nam",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/130",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=130"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/facebook/",
+    "name": "facebook",
+    "slug": "facebook",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/23",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/fashion/",
+    "name": "fashion",
+    "slug": "fashion",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/24",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/gameshow/",
+    "name": "Gameshow",
+    "slug": "gameshow",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/25",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/gia-dinh-hanh-phuc/",
+    "name": "gia đình hạnh phúc",
+    "slug": "gia-dinh-hanh-phuc",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/133",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=133"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/giai-thuong-thiet-ke/",
+    "name": "giải thưởng thiết kế",
+    "slug": "giai-thuong-thiet-ke",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/157",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=157"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/giai-tri-kpop/",
+    "name": "giải trí kpop",
+    "slug": "giai-tri-kpop",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/127",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=127"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/giao-dien-ban-hang/",
+    "name": "giao diện bán hàng",
+    "slug": "giao-dien-ban-hang",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/26",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/giao-trinh-thiet-ke-web-bang-wordpress/",
+    "name": "giáo trình thiết kế web bằng wordpress",
+    "slug": "giao-trinh-thiet-ke-web-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/27",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 178,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/goc-nho-trong-nha/",
+    "name": "góc nhỏ trong nhà",
+    "slug": "goc-nho-trong-nha",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/178",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=178"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/googlemap/",
+    "name": "Googlemap",
+    "slug": "googlemap",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/28",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-in-an-o-dau/",
+    "name": "học in ấn ở đâu",
+    "slug": "hoc-in-an-o-dau",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/29",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-do-hoa-de-lam-gi/",
+    "name": "học thiết kế đồ họa để làm gì",
+    "slug": "hoc-thiet-ke-do-hoa-de-lam-gi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/30",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-do-hoa-ngan-han/",
+    "name": "học thiết kế đồ họa ngắn hạn",
+    "slug": "hoc-thiet-ke-do-hoa-ngan-han",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/31",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-do-hoa-o-dau/",
+    "name": "học thiết kế đồ họa ở đâu",
+    "slug": "hoc-thiet-ke-do-hoa-o-dau",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/32",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-do-hoa-o-dau-ha-noi/",
+    "name": "học thiết kế đồ họa ở đâu hà nội",
+    "slug": "hoc-thiet-ke-do-hoa-o-dau-ha-noi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/33",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-do-hoa-o-dau-tot/",
+    "name": "học thiết kế đồ họa ở đâu tốt",
+    "slug": "hoc-thiet-ke-do-hoa-o-dau-tot",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/34",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=34"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-do-hoa-o-ha-noi/",
+    "name": "học thiết kế đồ họa ở hà nội",
+    "slug": "hoc-thiet-ke-do-hoa-o-ha-noi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/35",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=35"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-do-hoa-online/",
+    "name": "học thiết kế đồ họa online",
+    "slug": "hoc-thiet-ke-do-hoa-online",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/36",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=36"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-in-an-o-dau/",
+    "name": "học thiết kế in ấn ở đâu",
+    "slug": "hoc-thiet-ke-in-an-o-dau",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/37",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=37"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-thiet-ke-quang-cao-o-dau/",
+    "name": "học thiết kế quảng cáo ở đâu",
+    "slug": "hoc-thiet-ke-quang-cao-o-dau",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/38",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=38"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-wordpress-co-ban/",
+    "name": "học wordpress cơ bản",
+    "slug": "hoc-wordpress-co-ban",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/39",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=39"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-wordpress-nang-cao/",
+    "name": "học wordpress nâng cao",
+    "slug": "hoc-wordpress-nang-cao",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/40",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=40"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hoc-wordpress-online/",
+    "name": "học wordpress online",
+    "slug": "hoc-wordpress-online",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/41",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=41"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "count": 0,
+    "description": "Hướng dẫn cài đặt website Wordpress trên hosting miễn phí của Hostinger thành công 100% cho những người mới bắt đầu học làm website.",
+    "link": "https://abi.com.vn/tag/cai-dat-wordpress/",
+    "name": "Hosting miễn phí",
+    "slug": "cai-dat-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/42",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=42"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/hotgirl/",
+    "name": "hotgirl",
+    "slug": "hotgirl",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/126",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=126"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/huong-dan-hoc-wordpress/",
+    "name": "hướng dẫn học wordpress",
+    "slug": "huong-dan-hoc-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/43",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=43"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/huong-dan-thiet-ke-web-bang-wordpress/",
+    "name": "hướng dẫn thiết kế web bằng wordpress",
+    "slug": "huong-dan-thiet-ke-web-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/44",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=44"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/huong-dan-thiet-ke-web-wordpress-toan-tap/",
+    "name": "hướng dẫn thiết kế web wordpress toàn tập",
+    "slug": "huong-dan-thiet-ke-web-wordpress-toan-tap",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/45",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=45"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/huong-dan-thiet-ke-web-wordpress-tu-a-z/",
+    "name": "hướng dẫn thiết kế web wordpress từ a - z",
+    "slug": "huong-dan-thiet-ke-web-wordpress-tu-a-z",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/46",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=46"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "count": 0,
+    "description": "Các bài viết hướng dẫn thực hành vẽ minh họa trên phần mềm Adobe Illustrator",
+    "link": "https://abi.com.vn/tag/illustrator-tuttorial/",
+    "name": "Hướng dẫn thực hành Illustrator",
+    "slug": "illustrator-tuttorial",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/47",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=47"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/huong-dan-wordpress-toan-tap/",
+    "name": "hướng dẫn wordpress toàn tập",
+    "slug": "huong-dan-wordpress-toan-tap",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/48",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=48"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/idol-han-quoc/",
+    "name": "idol hàn quốc",
+    "slug": "idol-han-quoc",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/128",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=128"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/illustrator-cc/",
+    "name": "illustrator cc",
+    "slug": "illustrator-cc",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/49",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=49"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/illustrator-cs5-full-crack/",
+    "name": "illustrator cs5 full crack",
+    "slug": "illustrator-cs5-full-crack",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/50",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=50"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/illustrator-cs6-full-crack/",
+    "name": "illustrator cs6 full crack",
+    "slug": "illustrator-cs6-full-crack",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/51",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=51"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/illustrator-cs6-portable/",
+    "name": "illustrator cs6 portable",
+    "slug": "illustrator-cs6-portable",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/52",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=52"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/illustrator-portable/",
+    "name": "illustrator portable",
+    "slug": "illustrator-portable",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/53",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=53"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/karaoke-thanh-ca/",
+    "name": "Karaoke Thánh Ca",
+    "slug": "karaoke-thanh-ca",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/54",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=54"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/khoa-hoc-thiet-ke-do-hoa-ngan-han/",
+    "name": "khóa học thiết kế đồ họa ngắn hạn",
+    "slug": "khoa-hoc-thiet-ke-do-hoa-ngan-han",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/55",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=55"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/khoa-hoc-thiet-ke-quang-cao/",
+    "name": "khóa học thiết kế quảng cáo",
+    "slug": "khoa-hoc-thiet-ke-quang-cao",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/56",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=56"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/khong-gian-xanh/",
+    "name": "không gian xanh",
+    "slug": "khong-gian-xanh",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/155",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=155"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/le-khai-giang/",
+    "name": "Lễ khai giảng",
+    "slug": "le-khai-giang",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/57",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=57"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/lich-hen-phong-van/",
+    "name": "lịch hẹn phỏng vấn",
+    "slug": "lich-hen-phong-van",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/139",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=139"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "count": 0,
+    "description": "Giuseart tự hào là đơn vị thiết kế logo công giáo đẹp và uy tín hàng đầu. Chuyên nhận thiết kế logo Huy hiệu Giám Mục, Logo giáo xứ, Logo Thiếu nhi Thánh Thể, Logo ban lễ sinh, Logo giới trẻ, Logo SVCG, Logo ca đoàn,... Các logo do Giuseart thiết kế vừa bảo đảm sự hiện đại, độ mỹ thuật sáng tạo mà vẫn đảm bảo sự thánh thiện cần thiết.",
+    "link": "https://abi.com.vn/tag/thiet-ke-logo-cong-giao/",
+    "name": "Logo Công Giáo",
+    "slug": "thiet-ke-logo-cong-giao",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/58",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/logo-thuong-hieu/",
+    "name": "Logo thương hiệu",
+    "slug": "logo-thuong-hieu",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/59",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=59"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 164,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/nang-luong-xanh/",
+    "name": "năng lượng xanh",
+    "slug": "nang-luong-xanh",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/164",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=164"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/newspaper-theme/",
+    "name": "Newspaper theme",
+    "slug": "newspaper-theme",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/60",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=60"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/nganh-thiet-ke-do-hoa-thi-truong-nao/",
+    "name": "ngành thiết kế đồ họa thi trường nào",
+    "slug": "nganh-thiet-ke-do-hoa-thi-truong-nao",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/61",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=61"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/nghe-sy-viet-nam/",
+    "name": "Nghệ sỹ Việt nam",
+    "slug": "nghe-sy-viet-nam",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/62",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=62"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/nghi-duong/",
+    "name": "nghỉ dưỡng",
+    "slug": "nghi-duong",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/159",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=159"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/nguoi-phan-xu/",
+    "name": "người phán xử",
+    "slug": "nguoi-phan-xu",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/135",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 163,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/nha-vuon/",
+    "name": "nhà vườn",
+    "slug": "nha-vuon",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/163",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=163"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/nhan-thiet-ke-web-bang-wordpress/",
+    "name": "nhận thiết kế web bằng wordpress",
+    "slug": "nhan-thiet-ke-web-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/63",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=63"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 167,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/noi-that-phong-tam/",
+    "name": "nội thất phòng tắm",
+    "slug": "noi-that-phong-tam",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/167",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=167"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/phan-quan/",
+    "name": "phan quân",
+    "slug": "phan-quan",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/134",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=134"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/phong-an/",
+    "name": "phòng ăn",
+    "slug": "phong-an",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/170",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=170"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/phong-bep/",
+    "name": "phòng bếp",
+    "slug": "phong-bep",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/171",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 168,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/phong-cach-moc/",
+    "name": "phong cách mộc",
+    "slug": "phong-cach-moc",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/168",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=168"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 169,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/phong-ngu/",
+    "name": "phòng ngủ",
+    "slug": "phong-ngu",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/169",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=169"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 182,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/phong-thuy-trong-thiet-ke-noi-that/",
+    "name": "phong thủy trong thiết kế nội thất",
+    "slug": "phong-thuy-trong-thiet-ke-noi-that",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/182",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=182"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 177,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/phong-tre-em/",
+    "name": "phòng trẻ em",
+    "slug": "phong-tre-em",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/177",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=177"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "count": 0,
+    "description": "Hướng dẫn sử dụng phần mềm photoshop cho người mới bắt đầu!",
+    "link": "https://abi.com.vn/tag/photoshop/",
+    "name": "Photoshop cho người mới bắt đầu",
+    "slug": "photoshop",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/64",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=64"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/photoshop-cs3/",
+    "name": "photoshop cs3",
+    "slug": "photoshop-cs3",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/65",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=65"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/photoshop-cs5/",
+    "name": "photoshop cs5",
+    "slug": "photoshop-cs5",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/66",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=66"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/photoshop-cs6/",
+    "name": "photoshop cs6",
+    "slug": "photoshop-cs6",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/67",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=67"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/photoshop-ghep-anh/",
+    "name": "photoshop ghép ảnh",
+    "slug": "photoshop-ghep-anh",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/68",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=68"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/photoshop-online-tieng-viet/",
+    "name": "photoshop online tiếng việt",
+    "slug": "photoshop-online-tieng-viet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/69",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=69"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/photoshop-portable/",
+    "name": "photoshop portable",
+    "slug": "photoshop-portable",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/70",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=70"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/plugin/",
+    "name": "Plugin",
+    "slug": "plugin",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/71",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=71"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "count": 0,
+    "description": "Tuyển tập các bài viết hướng dẫn tạo Portfolio chuyên nghiệp nhất cho Graphic Designer",
+    "link": "https://abi.com.vn/tag/portfolio-with-wordpress/",
+    "name": "Portfolio",
+    "slug": "portfolio-with-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/72",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=72"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/showbiz/",
+    "name": "Showbiz",
+    "slug": "showbiz",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/73",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=73"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tai-lieu-thiet-ke-web-bang-wordpress/",
+    "name": "tài liệu thiết kế web bằng wordpress",
+    "slug": "tai-lieu-thiet-ke-web-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/74",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=74"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tao-web-ban-hang-mien-phi/",
+    "name": "tạo web bán hàng miễn phí",
+    "slug": "tao-web-ban-hang-mien-phi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/75",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=75"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tao-web-ca-nhan-mien-phi-tieng-viet/",
+    "name": "tạo web cá nhân miễn phí tiếng việt",
+    "slug": "tao-web-ca-nhan-mien-phi-tieng-viet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/76",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=76"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tao-web-mien-phi-mai-mai/",
+    "name": "tạo web miễn phí mãi mãi",
+    "slug": "tao-web-mien-phi-mai-mai",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/77",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=77"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tao-web-mien-phi-tren-google/",
+    "name": "tạo web miễn phí trên google",
+    "slug": "tao-web-mien-phi-tren-google",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/78",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=78"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tao-web-wordpress-mien-phi/",
+    "name": "tạo web wordpress miễn phí",
+    "slug": "tao-web-wordpress-mien-phi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/79",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=79"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tao-website-bang-wordpress/",
+    "name": "tạo website bằng wordpress",
+    "slug": "tao-website-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/80",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=80"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tao-website-mien-phi-bang-wordpress/",
+    "name": "tạo website miễn phí bằng wordpress",
+    "slug": "tao-website-mien-phi-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/81",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=81"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/the-thao/",
+    "name": "thể thao",
+    "slug": "the-thao",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/131",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=131"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/them-fanpage/",
+    "name": "thêm fanpage",
+    "slug": "them-fanpage",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/82",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=82"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "count": 0,
+    "description": "Giuseart.com giới thiệu các bài viết hướng dẫn cài đặt và sử dụng theme đẹp cho Wordpress mới nhất.",
+    "link": "https://abi.com.vn/tag/theme-wordpress/",
+    "name": "Theme đẹp cho Wordpress",
+    "slug": "theme-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/83",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=83"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thi-giao-ly/",
+    "name": "Thi giáo lý",
+    "slug": "thi-giao-ly",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/84",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=84"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiep-giang-sinh/",
+    "name": "Thiệp Giáng Sinh",
+    "slug": "thiep-giang-sinh",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/85",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=85"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiep-le-gio/",
+    "name": "Thiệp lễ giỗ",
+    "slug": "thiep-le-gio",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/86",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=86"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiep-le-ta-on/",
+    "name": "Thiệp Lễ Tạ Ơn",
+    "slug": "thiep-le-ta-on",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/87",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=87"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiep-moi-bon-mang/",
+    "name": "Thiệp mời Bổn mạng",
+    "slug": "thiep-moi-bon-mang",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/88",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=88"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiep-moi-khanh-thanh/",
+    "name": "Thiệp mời khánh thành",
+    "slug": "thiep-moi-khanh-thanh",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/89",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=89"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiep-phuc-sinh/",
+    "name": "Thiệp Phục sinh",
+    "slug": "thiep-phuc-sinh",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/90",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=90"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiep-tet/",
+    "name": "Thiệp Tết",
+    "slug": "thiep-tet",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/91",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=91"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-do-hoa/",
+    "name": "Thiết kế đồ họa",
+    "slug": "thiet-ke-do-hoa",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/92",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=92"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-do-hoa-hoc-o-dau/",
+    "name": "thiết kế đồ họa học ở đâu",
+    "slug": "thiet-ke-do-hoa-hoc-o-dau",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/93",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=93"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-do-hoa-hoc-truong-nao/",
+    "name": "thiết kế đồ họa học trường nào",
+    "slug": "thiet-ke-do-hoa-hoc-truong-nao",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/94",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=94"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-do-hoa-la-gi/",
+    "name": "thiết kế đồ họa là gì",
+    "slug": "thiet-ke-do-hoa-la-gi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/95",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=95"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-do-hoa-online/",
+    "name": "thiết kế đồ họa online",
+    "slug": "thiet-ke-do-hoa-online",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/96",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-do-hoa-tieng-anh-la-gi/",
+    "name": "thiết kế đồ họa tiếng anh là gì",
+    "slug": "thiet-ke-do-hoa-tieng-anh-la-gi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/97",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=97"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "count": 0,
+    "description": "Blog Giuseart.com chia sẻ các kiến thức và quy chuẩn thiết kế logo chuyên nghiệp nhất cho các bạn đang làm trong lĩnh vực thiết kế đồ họa.",
+    "link": "https://abi.com.vn/tag/thiet-ke-logo/",
+    "name": "Thiết kế Logo",
+    "slug": "thiet-ke-logo",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/98",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=98"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 162,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-noi-that/",
+    "name": "thiết kế nội thất",
+    "slug": "thiet-ke-noi-that",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/162",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=162"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-web-gia-re-500k/",
+    "name": "thiet ke web gia re 500k",
+    "slug": "thiet-ke-web-gia-re-500k",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/99",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=99"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-website-tai-ha-noi/",
+    "name": "thiết kế website tại hà nội",
+    "slug": "thiet-ke-website-tai-ha-noi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/100",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=100"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-website-wordpress-theo-yeu-cau/",
+    "name": "thiết kế website wordpress theo yêu cầu",
+    "slug": "thiet-ke-website-wordpress-theo-yeu-cau",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/101",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=101"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thiet-ke-wordpress-dep/",
+    "name": "thiết kế wordpress đẹp",
+    "slug": "thiet-ke-wordpress-dep",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/102",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=102"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thu-cong-my-nghe/",
+    "name": "thủ công mỹ nghệ",
+    "slug": "thu-cong-my-nghe",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/161",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=161"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "count": 0,
+    "description": "Blog GiuseArt.com giới thiệu các thủ thuật Wordpress hữu ích dành cho tất cả mọi người.",
+    "link": "https://abi.com.vn/tag/thu-thuat-wordpress/",
+    "name": "Thủ thuật wordpress",
+    "slug": "thu-thuat-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/103",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=103"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/thua-thien-hue/",
+    "name": "thừa thiên huế",
+    "slug": "thua-thien-hue",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/137",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=137"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 166,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tiet-kiem-nang-luong/",
+    "name": "tiết kiệm năng lượng",
+    "slug": "tiet-kiem-nang-luong",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/166",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=166"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tin-tuc/",
+    "name": "Tin tức",
+    "slug": "tin-tuc",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/104",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=104"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tra/",
+    "name": "trà",
+    "slug": "tra",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/146",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=146"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tra-sua/",
+    "name": "trà sữa",
+    "slug": "tra-sua",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/138",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=138"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/trieu-nguyen/",
+    "name": "triều nguyễn",
+    "slug": "trieu-nguyen",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/136",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=136"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/trinh-soan-thao-wordpress/",
+    "name": "Trình soạn thảo Wordpress",
+    "slug": "trinh-soan-thao-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/105",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=105"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/trom-cho/",
+    "name": "trộm chó",
+    "slug": "trom-cho",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/129",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=129"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/truong-mam-non/",
+    "name": "Trường mầm non",
+    "slug": "truong-mam-non",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/154",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=154"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "count": 0,
+    "description": "Blog GiuseArt.com chia sẻ cẩm nang kiến thức cho người tự học làm website Wordpress hiệu quả nhất, đặc biệt phù hợp với những người mới bắt đầu và các bạn Designer",
+    "link": "https://abi.com.vn/tag/tu-hoc-wordpress/",
+    "name": "Tự học làm website Wordpress",
+    "slug": "tu-hoc-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/106",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=106"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "count": 0,
+    "description": "Tự học thiết kế đồ họa tại nhà cho những bạn yêu thích sáng tạo nghệ thuật trên máy vi tính",
+    "link": "https://abi.com.vn/tag/tu-hoc-thiet-ke-do-hoa/",
+    "name": "Tự học thiết kế đồ họa",
+    "slug": "tu-hoc-thiet-ke-do-hoa",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/107",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=107"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tu-hoc-thiet-ke-website-chuyen-nghiep/",
+    "name": "tự học thiết kế website chuyên nghiệp",
+    "slug": "tu-hoc-thiet-ke-website-chuyen-nghiep",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/108",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=108"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 109,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tu-hoc-wordpress-2/",
+    "name": "tự học wordpress",
+    "slug": "tu-hoc-wordpress-2",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/109",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=109"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tu-lanh/",
+    "name": "tủ lạnh",
+    "slug": "tu-lanh",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/181",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=181"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 172,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/tu-trang-tri/",
+    "name": "tủ trang trí",
+    "slug": "tu-trang-tri",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/172",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=172"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "count": 0,
+    "description": "Chia sẻ các file thiết kế giáng sinh đẹp cho các bạn Designer.",
+    "link": "https://abi.com.vn/tag/chia-se-file-vector-giang-sinh-dep-nhat-cho-anh-em-designer/",
+    "name": "Vector Giáng sinh",
+    "slug": "chia-se-file-vector-giang-sinh-dep-nhat-cho-anh-em-designer",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/110",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=110"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/web-wordpress-la-gi/",
+    "name": "web wordpress là gì",
+    "slug": "web-wordpress-la-gi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/111",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=111"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/website-bang-wordpress/",
+    "name": "website bằng wordpress",
+    "slug": "website-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/112",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "count": 0,
+    "description": "Các bài hướng dẫn làm website wordpress miễn phí cho người mới bắt đầu học làm website.",
+    "link": "https://abi.com.vn/tag/website-mien-phi/",
+    "name": "Website miễn phí",
+    "slug": "website-mien-phi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/113",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=113"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/wordpress/",
+    "name": "wordpress",
+    "slug": "wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/114",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=114"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "count": 0,
+    "description": "Các bài hướng dẫn tự học và làm website wordpress cho người mới bắt đầu tại Blog Giuseart.com.",
+    "link": "https://abi.com.vn/tag/hoc-wordpress/",
+    "name": "Wordpress cho người mới bắt đầu",
+    "slug": "hoc-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/115",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=115"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/xay-dung-website-bang-wordpress/",
+    "name": "xây dựng website bằng wordpress",
+    "slug": "xay-dung-website-bang-wordpress",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/116",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=116"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/tag/xoi-ngon/",
+    "name": "Xôi ngon",
+    "slug": "xoi-ngon",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags/117",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?tags=117"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

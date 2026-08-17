@@ -1,0 +1,1696 @@
+{
+  "recovered_count": 15,
+  "unresolved_records": [
+    {
+      "post_id": 5022,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "file:///C:/Users/NHATNG~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.gif",
+      "status": "BROKEN_REFERENCE",
+      "reason": "Unexpected error: No connection adapters were found for 'file:///C:/Users/NHATNG~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.gif'"
+    },
+    {
+      "post_id": 188,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_03/image-20240328082613-1.png",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 188,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_03/image-20240328082613-4.png",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 164,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/page/picture-2271.jpg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-1.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-2.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-3.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-4.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-5.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-6.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-7.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-8.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-9.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-10.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 149,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-11.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-1.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-2.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-3.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-4.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-5.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-6.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-7.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-8.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-9.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 147,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518110003-10.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-1.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-2.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-3.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-4.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-5.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-6.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-7.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-8.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-9.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-10.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 107,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_05/image-20240518105059-11.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-3.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-4.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-5.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-6.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-7.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-8.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-9.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-10.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-11.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142648-12.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-13.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-14.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-15.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-16.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-17.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-18.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-19.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-20.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 86,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "https://abi.com.vn/uploads/news/2024_06/image-20240629142649-21.jpeg",
+      "status": "BROKEN_REFERENCE",
+      "reason": "File not found on remote server (404)"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-bia-TMNV.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A1_TMNVKHCN_De-tai-KHCN.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A2-TMNVKHXHNV_De-tai-KHXHNV.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A3-TMDASXTN_Du-an.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A4-TMDAKH_De-an.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-du-toan-nhiem-vu-KHCN-2024-1.xlsx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A5_LLTC_Ly-lich-to-chuc.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A6_LLKH_Ly-lich-CNDT_CTV.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-giay-xac-nhan-phoi-hop.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/01/Mau-giay-xac-nhan-phoi-hop.doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Bi%E1%BB%83u-A2-BM07-B%C3%A1o-c%C3%A1o-gi%E1%BA%A3i-tr%C3%ACnh-ch%E1%BB%89nh-s%E1%BB%ADa-Thuy%E1%BA%BFt-minh.docx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/01/Bi%E1%BB%83u-A2-BM07-B%C3%A1o-c%C3%A1o-gi%E1%BA%A3i-tr%C3%ACnh-ch%E1%BB%89nh-s%E1%BB%ADa-Thuy%E1%BA%BFt-minh.docx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5093,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/01/M%E1%BA%AAU-1-Phi%E1%BA%BFu-th%C3%B4ng-tin-nhi%E1%BB%87m-v%E1%BB%A5-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-2.docx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/01/M%E1%BA%AAU-1-Phi%E1%BA%BFu-th%C3%B4ng-tin-nhi%E1%BB%87m-v%E1%BB%A5-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-2.docx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5091,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tien-do-nhiem-vu.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5089,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-giam-dinh-nhiem-vu.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5089,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Giay-xac-nhan-chinh-sua-2.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Giay-xac-nhan-chinh-sua-2.doc (Caused by ConnectTimeoutError(<HTTPSConnection(host='westhighland.com.mx', port=443) at 0x14e6fc87250>, 'Connection to westhighland.com.mx timed out. (connect timeout=2)'))"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-C2-CVDNNTNV_De-nghi-nghiem-thu.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-thong-ke.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-ket-qua-tu-danh-gia-1.docx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tong-hop-1.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phuong-an-giao-quyen.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tai-san.xlsx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bien-ban-kiem-ke-tai-san-2.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/CV-196-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-quy%E1%BA%BFt-to%C3%A1n.pdf",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/CV-196-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-quy%E1%BA%BFt-to%C3%A1n.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-020304..xls",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-020304..xls (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-01.docx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-05.docx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-05.docx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-01.pdf",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-02A.pdf",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-02A.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-02B.pdf",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-03-2.pdf",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-04Qu%E1%BB%B9-ban-h%C3%A0nh-1.pdf",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5085,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-05.pdf",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-05.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-thong-ke.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tong-hop-1.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-hoan-thien-ho-so-nghiem-thu-3.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phi%E1%BA%BFu-%C4%91%C4%83ng-k%C3%BD-k%E1%BA%BFt-qu%E1%BA%A3-1.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phieu-mo-ta-cong-nghe-1.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Van-ban-de-nghi-giao-quyen-1.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phuong-an-giao-quyen.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tai-san.xlsx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bien-ban-kiem-ke-tai-san-2.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2020/11/M%E1%BA%ABu-Bao-cao-TS-CQCT-5.2021-1.xlsx",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5081,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2022/10/1.-M%E1%BA%ABu-A1-BCT%C4%90-B%C3%A1o-c%C3%A1o-ti%E1%BA%BFn-%C4%91%E1%BB%99-th%E1%BB%B1c-hi%E1%BB%87n-nhi%E1%BB%87m-v%E1%BB%A5..doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5081,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2022/10/2.-M%E1%BA%ABu-A2-BCSDKP-B%C3%A1o-c%C3%A1o-t%C3%ACnh-h%C3%ACnh-s%E1%BB%AD-d%E1%BB%A5ng-kinh-ph%C3%AD..doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2022/10/2.-M%E1%BA%ABu-A2-BCSDKP-B%C3%A1o-c%C3%A1o-t%C3%ACnh-h%C3%ACnh-s%E1%BB%AD-d%E1%BB%A5ng-kinh-ph%C3%AD..doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5081,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2022/10/3.-M%E1%BA%ABu-A3-BCSPHT-B%C3%A1o-c%C3%A1o-s%E1%BA%A3n-ph%E1%BA%A9m-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-%C4%91%C3%A3-ho%C3%A0n-th%C3%A0nh.doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "Request Timeout after 45s: HTTPConnectionPool(host='hcmfosted.vn', port=80): Read timed out. (read timeout=3)"
+    },
+    {
+      "post_id": 5081,
+      "media_id": null,
+      "relation": "content",
+      "source_url": "http://hcmfosted.vn/wp-content/uploads/2022/10/4.-M%E1%BA%ABu-A4-BCSPUD-B%C3%A1o-c%C3%A1o-s%E1%BA%A3n-ph%E1%BA%A9m-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-%C4%91%C3%A3-%C4%91%C6%B0%E1%BB%A3c-chuy%E1%BB%83n-giao-%E1%BB%A9ng-d%E1%BB%A5ng-v%C3%A0o-th%E1%BB%B1c-t%E1%BA%BF..doc",
+      "status": "EXTERNAL_MEDIA",
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2022/10/4.-M%E1%BA%ABu-A4-BCSPUD-B%C3%A1o-c%C3%A1o-s%E1%BA%A3n-ph%E1%BA%A9m-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-%C4%91%C3%A3-%C4%91%C6%B0%E1%BB%A3c-chuy%E1%BB%83n-giao-%E1%BB%A9ng-d%E1%BB%A5ng-v%C3%A0o-th%E1%BB%B1c-t%E1%BA%BF..doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 52,
+      "media_id": 53,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 53 not present in WordPress media database"
+    },
+    {
+      "post_id": 55,
+      "media_id": 56,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 56 not present in WordPress media database"
+    },
+    {
+      "post_id": 58,
+      "media_id": 59,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 59 not present in WordPress media database"
+    },
+    {
+      "post_id": 61,
+      "media_id": 62,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 62 not present in WordPress media database"
+    },
+    {
+      "post_id": 64,
+      "media_id": 65,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 65 not present in WordPress media database"
+    },
+    {
+      "post_id": 67,
+      "media_id": 68,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 68 not present in WordPress media database"
+    },
+    {
+      "post_id": 70,
+      "media_id": 71,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 71 not present in WordPress media database"
+    },
+    {
+      "post_id": 73,
+      "media_id": 74,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 74 not present in WordPress media database"
+    },
+    {
+      "post_id": 76,
+      "media_id": 49,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 49 not present in WordPress media database"
+    },
+    {
+      "post_id": 78,
+      "media_id": 79,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 79 not present in WordPress media database"
+    },
+    {
+      "post_id": 81,
+      "media_id": 82,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 82 not present in WordPress media database"
+    },
+    {
+      "post_id": 84,
+      "media_id": 49,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 49 not present in WordPress media database"
+    },
+    {
+      "post_id": 86,
+      "media_id": 87,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 87 not present in WordPress media database"
+    },
+    {
+      "post_id": 89,
+      "media_id": 90,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 90 not present in WordPress media database"
+    },
+    {
+      "post_id": 92,
+      "media_id": 93,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 93 not present in WordPress media database"
+    },
+    {
+      "post_id": 95,
+      "media_id": 96,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 96 not present in WordPress media database"
+    },
+    {
+      "post_id": 98,
+      "media_id": 99,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 99 not present in WordPress media database"
+    },
+    {
+      "post_id": 98,
+      "media_id": 4348,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4348 not present in WordPress media database"
+    },
+    {
+      "post_id": 98,
+      "media_id": 4349,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4349 not present in WordPress media database"
+    },
+    {
+      "post_id": 98,
+      "media_id": 4350,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4350 not present in WordPress media database"
+    },
+    {
+      "post_id": 98,
+      "media_id": 4351,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4351 not present in WordPress media database"
+    },
+    {
+      "post_id": 101,
+      "media_id": 102,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 102 not present in WordPress media database"
+    },
+    {
+      "post_id": 104,
+      "media_id": 105,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 105 not present in WordPress media database"
+    },
+    {
+      "post_id": 107,
+      "media_id": 108,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 108 not present in WordPress media database"
+    },
+    {
+      "post_id": 110,
+      "media_id": 111,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 111 not present in WordPress media database"
+    },
+    {
+      "post_id": 113,
+      "media_id": 114,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 114 not present in WordPress media database"
+    },
+    {
+      "post_id": 116,
+      "media_id": 117,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 117 not present in WordPress media database"
+    },
+    {
+      "post_id": 119,
+      "media_id": 120,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 120 not present in WordPress media database"
+    },
+    {
+      "post_id": 122,
+      "media_id": 123,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 123 not present in WordPress media database"
+    },
+    {
+      "post_id": 125,
+      "media_id": 126,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 126 not present in WordPress media database"
+    },
+    {
+      "post_id": 128,
+      "media_id": 129,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 129 not present in WordPress media database"
+    },
+    {
+      "post_id": 131,
+      "media_id": 79,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 79 not present in WordPress media database"
+    },
+    {
+      "post_id": 133,
+      "media_id": 134,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 134 not present in WordPress media database"
+    },
+    {
+      "post_id": 136,
+      "media_id": 137,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 137 not present in WordPress media database"
+    },
+    {
+      "post_id": 139,
+      "media_id": 87,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 87 not present in WordPress media database"
+    },
+    {
+      "post_id": 141,
+      "media_id": 90,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 90 not present in WordPress media database"
+    },
+    {
+      "post_id": 143,
+      "media_id": 93,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 93 not present in WordPress media database"
+    },
+    {
+      "post_id": 145,
+      "media_id": 102,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 102 not present in WordPress media database"
+    },
+    {
+      "post_id": 147,
+      "media_id": 105,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 105 not present in WordPress media database"
+    },
+    {
+      "post_id": 149,
+      "media_id": 53,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 53 not present in WordPress media database"
+    },
+    {
+      "post_id": 151,
+      "media_id": 152,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 152 not present in WordPress media database"
+    },
+    {
+      "post_id": 154,
+      "media_id": 155,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 155 not present in WordPress media database"
+    },
+    {
+      "post_id": 157,
+      "media_id": 158,
+      "relation": "featured",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 158 not present in WordPress media database"
+    },
+    {
+      "post_id": 196,
+      "media_id": 4449,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4449 not present in WordPress media database"
+    },
+    {
+      "post_id": 196,
+      "media_id": 4451,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4451 not present in WordPress media database"
+    },
+    {
+      "post_id": 196,
+      "media_id": 4452,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4452 not present in WordPress media database"
+    },
+    {
+      "post_id": 234,
+      "media_id": 4494,
+      "relation": "content",
+      "source_url": "",
+      "status": "ORPHAN_MEDIA",
+      "reason": "Media ID 4494 not present in WordPress media database"
+    }
+  ],
+  "external_records": [
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tb0/1/16/1f3af.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/3cb04849_1f3af.png",
+      "reason": ""
+    },
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/c650eb22_2728.png",
+      "reason": ""
+    },
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f469_200d_1f3eb.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/c7ae8edc_1f469_200d_1f3eb.png",
+      "reason": ""
+    },
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t7e/1/16/1f4c5.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/635f4997_1f4c5.png",
+      "reason": ""
+    },
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f4cd.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/39eb22f1_1f4cd.png",
+      "reason": ""
+    },
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tac/1/16/1f4cc.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/a22adde5_1f4cc.png",
+      "reason": ""
+    },
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tdc/1/16/26a0.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/318e4dcb_26a0.png",
+      "reason": ""
+    },
+    {
+      "post_id": 5683,
+      "url": "https://static.xx.fbcdn.net/images/emoji.php/v9/tc6/1/16/1f680.png",
+      "domain": "static.xx.fbcdn.net",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/bdf08196_1f680.png",
+      "reason": ""
+    },
+    {
+      "post_id": 234,
+      "url": "https://vietgiatrang.com/wp-content/uploads/2025/03/congnghevisinh-1024x287.jpg",
+      "domain": "vietgiatrang.com",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/b33e0e2e_congnghevisinh-1024x287.jpg",
+      "reason": ""
+    },
+    {
+      "post_id": 196,
+      "url": "https://vietgiatrang.com/wp-content/uploads/2025/03/image-20230614094125-1.png",
+      "domain": "vietgiatrang.com",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/7207c305_image-20230614094125-1.png",
+      "reason": ""
+    },
+    {
+      "post_id": 196,
+      "url": "https://vietgiatrang.com/wp-content/uploads/2025/03/image-20230614094125-2.jpg",
+      "domain": "vietgiatrang.com",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/c6de2d15_image-20230614094125-2.jpg",
+      "reason": ""
+    },
+    {
+      "post_id": 196,
+      "url": "https://vietgiatrang.com/wp-content/uploads/2025/03/sam-da.jpg",
+      "domain": "vietgiatrang.com",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/18826485_sam-da.jpg",
+      "reason": ""
+    },
+    {
+      "post_id": 98,
+      "url": "https://vietgiatrang.com/wp-content/uploads/2025/03/img_8207-1024x683.jpg",
+      "domain": "vietgiatrang.com",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/bb947a53_img_8207-1024x683.jpg",
+      "reason": ""
+    },
+    {
+      "post_id": 98,
+      "url": "https://vietgiatrang.com/wp-content/uploads/2025/03/image_1-1024x683.jpg",
+      "domain": "vietgiatrang.com",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/7b7d1932_image_1-1024x683.jpg",
+      "reason": ""
+    },
+    {
+      "post_id": 98,
+      "url": "https://vietgiatrang.com/wp-content/uploads/2025/03/image_2-1024x683.jpg",
+      "domain": "vietgiatrang.com",
+      "download_status": "DOWNLOADED",
+      "local_file": "recovered/086ef719_image_2-1024x683.jpg",
+      "reason": ""
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-bia-TMNV.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A1_TMNVKHCN_De-tai-KHCN.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A2-TMNVKHXHNV_De-tai-KHXHNV.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A3-TMDASXTN_Du-an.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A4-TMDAKH_De-an.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-du-toan-nhiem-vu-KHCN-2024-1.xlsx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A5_LLTC_Ly-lich-to-chuc.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-A6_LLKH_Ly-lich-CNDT_CTV.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Mau-giay-xac-nhan-phoi-hop.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/01/Mau-giay-xac-nhan-phoi-hop.doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/Bi%E1%BB%83u-A2-BM07-B%C3%A1o-c%C3%A1o-gi%E1%BA%A3i-tr%C3%ACnh-ch%E1%BB%89nh-s%E1%BB%ADa-Thuy%E1%BA%BFt-minh.docx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/01/Bi%E1%BB%83u-A2-BM07-B%C3%A1o-c%C3%A1o-gi%E1%BA%A3i-tr%C3%ACnh-ch%E1%BB%89nh-s%E1%BB%ADa-Thuy%E1%BA%BFt-minh.docx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5093,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/01/M%E1%BA%AAU-1-Phi%E1%BA%BFu-th%C3%B4ng-tin-nhi%E1%BB%87m-v%E1%BB%A5-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-2.docx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/01/M%E1%BA%AAU-1-Phi%E1%BA%BFu-th%C3%B4ng-tin-nhi%E1%BB%87m-v%E1%BB%A5-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-2.docx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5091,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tien-do-nhiem-vu.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5089,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-giam-dinh-nhiem-vu.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5089,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Giay-xac-nhan-chinh-sua-2.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Giay-xac-nhan-chinh-sua-2.doc (Caused by ConnectTimeoutError(<HTTPSConnection(host='westhighland.com.mx', port=443) at 0x14e6fc87250>, 'Connection to westhighland.com.mx timed out. (connect timeout=2)'))"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-C2-CVDNNTNV_De-nghi-nghiem-thu.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-thong-ke.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-ket-qua-tu-danh-gia-1.docx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tong-hop-1.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phuong-an-giao-quyen.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tai-san.xlsx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5087,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bien-ban-kiem-ke-tai-san-2.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/CV-196-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-quy%E1%BA%BFt-to%C3%A1n.pdf",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/CV-196-H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-quy%E1%BA%BFt-to%C3%A1n.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-020304..xls",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-020304..xls (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-01.docx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-05.docx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-05.docx (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-01.pdf",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-02A.pdf",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-02A.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-02B.pdf",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-03-2.pdf",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-04Qu%E1%BB%B9-ban-h%C3%A0nh-1.pdf",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5085,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Mau-BM-KHTC-05.pdf",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Mau-BM-KHTC-05.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-thong-ke.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tong-hop-1.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2020/11/Bao-cao-tom-tat-1.doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-hoan-thien-ho-so-nghiem-thu-3.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phi%E1%BA%BFu-%C4%91%C4%83ng-k%C3%BD-k%E1%BA%BFt-qu%E1%BA%A3-1.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phieu-mo-ta-cong-nghe-1.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Van-ban-de-nghi-giao-quyen-1.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Phuong-an-giao-quyen.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bao-cao-tai-san.xlsx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/Bien-ban-kiem-ke-tai-san-2.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Network Connection Failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+      "post_id": 5083,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2020/11/M%E1%BA%ABu-Bao-cao-TS-CQCT-5.2021-1.xlsx",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5081,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2022/10/1.-M%E1%BA%ABu-A1-BCT%C4%90-B%C3%A1o-c%C3%A1o-ti%E1%BA%BFn-%C4%91%E1%BB%99-th%E1%BB%B1c-hi%E1%BB%87n-nhi%E1%BB%87m-v%E1%BB%A5..doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Read timed out. (read timeout=2)"
+    },
+    {
+      "post_id": 5081,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2022/10/2.-M%E1%BA%ABu-A2-BCSDKP-B%C3%A1o-c%C3%A1o-t%C3%ACnh-h%C3%ACnh-s%E1%BB%AD-d%E1%BB%A5ng-kinh-ph%C3%AD..doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2022/10/2.-M%E1%BA%ABu-A2-BCSDKP-B%C3%A1o-c%C3%A1o-t%C3%ACnh-h%C3%ACnh-s%E1%BB%AD-d%E1%BB%A5ng-kinh-ph%C3%AD..doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    },
+    {
+      "post_id": 5081,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2022/10/3.-M%E1%BA%ABu-A3-BCSPHT-B%C3%A1o-c%C3%A1o-s%E1%BA%A3n-ph%E1%BA%A9m-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-%C4%91%C3%A3-ho%C3%A0n-th%C3%A0nh.doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "Request Timeout after 45s: HTTPConnectionPool(host='hcmfosted.vn', port=80): Read timed out. (read timeout=3)"
+    },
+    {
+      "post_id": 5081,
+      "url": "http://hcmfosted.vn/wp-content/uploads/2022/10/4.-M%E1%BA%ABu-A4-BCSPUD-B%C3%A1o-c%C3%A1o-s%E1%BA%A3n-ph%E1%BA%A9m-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-%C4%91%C3%A3-%C4%91%C6%B0%E1%BB%A3c-chuy%E1%BB%83n-giao-%E1%BB%A9ng-d%E1%BB%A5ng-v%C3%A0o-th%E1%BB%B1c-t%E1%BA%BF..doc",
+      "domain": "hcmfosted.vn",
+      "download_status": "FAILED",
+      "local_file": null,
+      "reason": "SSL Certificate Error: HTTPSConnectionPool(host='westhighland.com.mx', port=443): Max retries exceeded with url: /wp-content/uploads/2022/10/4.-M%E1%BA%ABu-A4-BCSPUD-B%C3%A1o-c%C3%A1o-s%E1%BA%A3n-ph%E1%BA%A9m-khoa-h%E1%BB%8Dc-v%C3%A0-c%C3%B4ng-ngh%E1%BB%87-%C4%91%C3%A3-%C4%91%C6%B0%E1%BB%A3c-chuy%E1%BB%83n-giao-%E1%BB%A9ng-d%E1%BB%A5ng-v%C3%A0o-th%E1%BB%B1c-t%E1%BA%BF..doc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    }
+  ],
+  "download_errors": []
+}

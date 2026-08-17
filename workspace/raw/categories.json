@@ -1,0 +1,1481 @@
+[
+  {
+    "id": 190,
+    "count": 1,
+    "description": "",
+    "link": "https://abi.com.vn/category/gioi-thieu/chuc-nang-nhiem-vu-quyen-han/",
+    "name": "Chức năng nhiệm vụ quyền hạn",
+    "slug": "chuc-nang-nhiem-vu-quyen-han",
+    "taxonomy": "category",
+    "parent": 183,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/190",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/183"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=190"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 282,
+    "count": 7,
+    "description": "",
+    "link": "https://abi.com.vn/category/tin-tuc/chuyen-doi-so/",
+    "name": "CHUYỂN ĐỔI SỐ",
+    "slug": "chuyen-doi-so",
+    "taxonomy": "category",
+    "parent": 186,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/282",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/186"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=282"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 191,
+    "count": 1,
+    "description": "",
+    "link": "https://abi.com.vn/category/gioi-thieu/co-cau-to-chuc/",
+    "name": "Cơ cấu tổ chức",
+    "slug": "co-cau-to-chuc",
+    "taxonomy": "category",
+    "parent": 183,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/191",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/183"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=191"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 192,
+    "count": 18,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-cong-nghe/cong-nghe-cay-trong/",
+    "name": "Công Nghệ Cây Trồng",
+    "slug": "cong-nghe-cay-trong",
+    "taxonomy": "category",
+    "parent": 188,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/192",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/188"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=192"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 193,
+    "count": 12,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-cong-nghe/cong-nghe-te-bao-thuc-vat/",
+    "name": "Công Nghệ Tế Bào Thực Vật",
+    "slug": "cong-nghe-te-bao-thuc-vat",
+    "taxonomy": "category",
+    "parent": 188,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/193",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/188"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=193"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 194,
+    "count": 8,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-cong-nghe/cong-nghe-thuy-san/",
+    "name": "Công Nghệ Thủy Sản",
+    "slug": "cong-nghe-thuy-san",
+    "taxonomy": "category",
+    "parent": 188,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/194",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/188"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=194"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 195,
+    "count": 13,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-cong-nghe/cong-nghe-vi-sinh/",
+    "name": "Công Nghệ Vi Sinh",
+    "slug": "cong-nghe-vi-sinh",
+    "taxonomy": "category",
+    "parent": 188,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/195",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/188"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=195"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 196,
+    "count": 1,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/dich-vu-ho-tro/",
+    "name": "Dịch vụ hỗ trợ",
+    "slug": "dich-vu-ho-tro",
+    "taxonomy": "category",
+    "parent": 189,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/196",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=196"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 197,
+    "count": 1,
+    "description": "",
+    "link": "https://abi.com.vn/category/gioi-thieu/dinh-huong/",
+    "name": "Định hướng",
+    "slug": "dinh-huong",
+    "taxonomy": "category",
+    "parent": 183,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/197",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/183"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=197"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 183,
+    "count": 12,
+    "description": "",
+    "link": "https://abi.com.vn/category/gioi-thieu/",
+    "name": "GIỚI THIỆU",
+    "slug": "gioi-thieu",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/183",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=183"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 198,
+    "count": 3,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/hau-uom-tao/",
+    "name": "Hậu ươm tạo",
+    "slug": "hau-uom-tao",
+    "taxonomy": "category",
+    "parent": 189,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/198",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=198"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "count": 1,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/ho-so-dang-ky-gia-nhap/",
+    "name": "Hồ sơ đăng ký gia nhập",
+    "slug": "ho-so-dang-ky-gia-nhap",
+    "taxonomy": "category",
+    "parent": 189,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/199",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=199"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 184,
+    "count": 8,
+    "description": "",
+    "link": "https://abi.com.vn/category/hoat-dong-doan-the/",
+    "name": "HOẠT ĐỘNG ĐOÀN THỂ",
+    "slug": "hoat-dong-doan-the",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/184",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=184"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 185,
+    "count": 2,
+    "description": "",
+    "link": "https://abi.com.vn/category/lien-he/",
+    "name": "LIÊN HỆ",
+    "slug": "lien-he",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/185",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=185"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "count": 8,
+    "description": "",
+    "link": "https://abi.com.vn/category/luat-va-bieu-mau-khoa-hoc-cong-nghe/",
+    "name": "Luật và Biểu mẫu Khoa học Công nghệ",
+    "slug": "luat-va-bieu-mau-khoa-hoc-cong-nghe",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/281",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=281"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "count": 0,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/quy-dinh-ve-gia-dich-vu/",
+    "name": "Quy định về giá dịch vụ",
+    "slug": "quy-dinh-ve-gia-dich-vu",
+    "taxonomy": "category",
+    "parent": 189,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/200",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=200"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 201,
+    "count": 1,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/quy-trinh-uom-tao/",
+    "name": "Quy trình ươm tạo",
+    "slug": "quy-trinh-uom-tao",
+    "taxonomy": "category",
+    "parent": 189,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/201",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=201"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 209,
+    "count": 1,
+    "description": "",
+    "link": "https://abi.com.vn/category/san-pham/",
+    "name": "Sản phẩm",
+    "slug": "san-pham",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/209",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=209"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 202,
+    "count": 45,
+    "description": "",
+    "link": "https://abi.com.vn/category/tin-tuc/thong-tin-hoat-dong/",
+    "name": "Thông Tin Hoạt Động",
+    "slug": "thong-tin-hoat-dong",
+    "taxonomy": "category",
+    "parent": 186,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/202",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/186"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=202"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 203,
+    "count": 58,
+    "description": "",
+    "link": "https://abi.com.vn/category/tin-tuc/thong-tin-khoi-nghiep-doi-moi-sang-tao/",
+    "name": "Thông tin khởi nghiệp, đổi mới sáng tạo",
+    "slug": "thong-tin-khoi-nghiep-doi-moi-sang-tao",
+    "taxonomy": "category",
+    "parent": 186,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/203",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/186"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=203"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "count": 29,
+    "description": "",
+    "link": "https://abi.com.vn/category/tin-tuc/thong-tin-tong-hop/",
+    "name": "Thông tin tổng hợp",
+    "slug": "thong-tin-tong-hop",
+    "taxonomy": "category",
+    "parent": 186,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/204",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/186"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=204"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 205,
+    "count": 2,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/tien-uom-tao/",
+    "name": "Tiền ươm tạo",
+    "slug": "tien-uom-tao",
+    "taxonomy": "category",
+    "parent": 189,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/205",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=205"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 186,
+    "count": 104,
+    "description": "",
+    "link": "https://abi.com.vn/category/tin-tuc/",
+    "name": "TIN TỨC",
+    "slug": "tin-tuc",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/186",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=186"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 187,
+    "count": 2,
+    "description": "",
+    "link": "https://abi.com.vn/category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/187",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=187"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 206,
+    "count": 3,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/uom-tao/",
+    "name": "Ươm tạo",
+    "slug": "uom-tao",
+    "taxonomy": "category",
+    "parent": 189,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/206",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=206"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 188,
+    "count": 25,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-cong-nghe/",
+    "name": "ƯƠM TẠO CÔNG NGHỆ",
+    "slug": "uom-tao-cong-nghe",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/188",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=188"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 189,
+    "count": 28,
+    "description": "",
+    "link": "https://abi.com.vn/category/uom-tao-doanh-nghiep/",
+    "name": "ƯƠM TẠO DOANH NGHIỆP",
+    "slug": "uom-tao-doanh-nghiep",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/189",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH",
+              "DELETE"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=189"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 14,
+    "description": "",
+    "link": "https://abi.com.vn/category/van-phong/",
+    "name": "Văn phòng",
+    "slug": "van-phong",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://abi.com.vn/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

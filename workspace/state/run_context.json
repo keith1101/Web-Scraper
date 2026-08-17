@@ -1,0 +1,41 @@
+{
+  "run_id": "ede0e150",
+  "source": "https://abi.com.vn",
+  "phase": "COMPLETED",
+  "completed_tools": [
+    "discover_wordpress_api",
+    "scrape_public_posts",
+    "scrape_public_media",
+    "scrape_categories",
+    "scrape_tags",
+    "download_media",
+    "normalize_posts",
+    "normalize_media",
+    "extract_post_media",
+    "map_post_media",
+    "validate_media",
+    "recover_missing_media",
+    "package_posts",
+    "generate_json",
+    "generate_csv",
+    "generate_reports",
+    "generate_manifest",
+    "generate_readme",
+    "validate_export"
+  ],
+  "pending_tools": [],
+  "statistics": {
+    "posts": 245,
+    "media": 838,
+    "post_media_mappings": 823,
+    "featured_relations": 199,
+    "content_relations": 561,
+    "attached_relations": 747,
+    "missing_media": 149,
+    "external_media": 62,
+    "download_errors": 0
+  },
+  "errors": [],
+  "created_at": "2026-08-17T14:46:00.336989+00:00",
+  "updated_at": "2026-08-17T15:07:05.014879+00:00"
+}
